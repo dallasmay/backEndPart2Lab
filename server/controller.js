@@ -1,6 +1,6 @@
 module.exports = {
-    getHouses:
-    deleteHouse:
-    createHouse:
-    updateHouse:
+    getHouses: "",
+    deleteHouse: "",
+    createHouse: "",
+    updateHouse: ""
 };
